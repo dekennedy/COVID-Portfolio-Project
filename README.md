@@ -24,7 +24,8 @@ Covid 19 Data Exploration
 ## Description
 Explore the global data on confirmed COVID-19 deaths using SQL, Python, and Tableau.
 
-In this project I work through a   
+In this project I work through a COVID-19 data set avaiable from "Our World in Data"
+
 
 
 #### Technologies
