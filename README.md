@@ -4,9 +4,9 @@ Covid 19 Data Exploration
 
 
 
-![Viz1](https://github.com/Update)
-> Viz number 1 to update
-
+![Viz1](https://github.com/dekennedy/COVID-Portfolio-Project/blob/main/Covid%20Deaths%20by%20Country.PNG)
+> Interactive dashboard of Covid Deaths and Vaccines by Country. This visual shows how the deaths and vaccines changed over time. Follow the link below to see the animation run over all avaiable data.
+- Interactive Link - [Tableau](https://public.tableau.com/profile/david.kennedy4630#!/vizhome/COVID-Portfolio-Project/Dashboard1)
 
 
 
